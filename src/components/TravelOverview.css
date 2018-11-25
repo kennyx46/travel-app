@@ -1,0 +1,22 @@
+.travel-overview {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.travel-overview-header {
+    background-color: #00153B;
+    border: 1px solid #00153B;
+    color: white;
+    padding: 10px 15px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.travel-overview-content {
+    background-color: #EDEDED;
+    border: 1px solid #ddd;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
